@@ -6,6 +6,7 @@ import Login from "./pages/Login";
 import Quiz from "./pages/Quiz";
 import Result from "./pages/Result";
 import Signup from "./pages/Signup";
+import firebase from "../firebase/firebase.initalize";
 
 function App() {
   return (
